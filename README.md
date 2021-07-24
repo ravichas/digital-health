@@ -13,7 +13,7 @@ Van De Belt, T. H. et al. (2010) ‘Definition of health 2.0 and medicine 2.0: A
 GSMA (no date) The Mobile Economy - The Mobile Economy, 2020. Available at: https://www.gsma.com/mobileeconomy/#trends (Accessed: 27 September 2020).    
 
 
-### Why DH projects succeed:
+### Why DH projects succeed?:
 
 Triggle, N. (2014) Care.data: How did it go so wrong?, BBC News Online. Available at: https://www.bbc.co.uk/news/health-26259101 (Accessed: 27 September 2020).  
 
