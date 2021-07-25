@@ -76,4 +76,18 @@ World Health Organization (2011) mHealth - New horizons for health through mobil
 
 Free, C. et al. (2013) ‘The Effectiveness of Mobile-Health Technology-Based Health Behaviour Change or Disease Management Interventions for Health Care Consumers: A Systematic Review’, PLoS Medicine. Edited by T. Cornford. Public Library of Science, 10(1), p. e1001362. doi: 10.1371/journal.pmed.1001362. Available at: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001362.
 
+AbouZahr, C. and Boerma, T. (2005) ‘Health information systems: The foundations of public health’, Bulletin of the World Health Organization. World Health Organization, pp. 578–583. doi: /S0042-96862005000800010. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626318/.
+
+
+USAID (2016) Six Essential Functions of a High-Performing Health Information System, Measure Evaluation. Available at: https://www.measureevaluation.org/resources/publications/fs-16-173   
+
+### Telehealth and medicine
+
+Dorsey, E. R. and Topol, E. J. (2016) ‘State of Telehealth’, New England Journal of Medicine. Edited by E. W. Campion. Massachussetts Medical Society, 375(2), pp. 154–161. doi: 10.1056/NEJMra1601705. Available at: https://www.nejm.org/doi/10.1056/NEJMra1601705?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+
+World Health Organization (2010) Telemedicine: Opportunities and developments in Member States. Report on the second global survey on eHealth. Available at: https://www.who.int/goe/publications/goe_telemedicine_2010.pdf.  
+
+Oliver, D. (2017) ‘David Oliver: Telehealth and telecare need a different approach’, BMJ. NLM (Medline), 359, p. j5108. doi: 10.1136/bmj.j5108. Available at: https://www.bmj.com/content/359/bmj.j5108/rapid-responses.
+
+
 
