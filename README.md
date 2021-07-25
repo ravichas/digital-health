@@ -21,6 +21,11 @@ Garrick, R. (2016) Four Lessons we can Learn From the Care.data Programme, Best 
 
 Presser, L. et al. (2015) ‘Care.data and access to UK health records: patient privacy and public trust’, Technology Science. Available at: https://techscience.org/a/2015081103/ (Accessed: 27 September 2020).
 
+Bigdata
+
+Kaur, K. and Rani, R. (2015) ‘Managing Data in Healthcare Information Systems: Many Models, One Solution’, Computer. IEEE Computer Society, 48(3), pp. 52–59. doi: 10.1109/MC.2015.77. Available at: https://ieeexplore.ieee.org/document/7063177.
+
+
 
 ### LHS: 
 
