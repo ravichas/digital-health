@@ -89,5 +89,22 @@ World Health Organization (2010) Telemedicine: Opportunities and developments in
 
 Oliver, D. (2017) ‘David Oliver: Telehealth and telecare need a different approach’, BMJ. NLM (Medline), 359, p. j5108. doi: 10.1136/bmj.j5108. Available at: https://www.bmj.com/content/359/bmj.j5108/rapid-responses.
 
+### Social media and public health
+Kass-Hout, T. A. and Alhinnawi, H. (2013) ‘Social media in public health’, British Medical Bulletin. Oxford Academic, 108(1), pp. 5–24. doi: 10.1093/bmb/ldt028. Available at: https://academic.oup.com/bmb/article/108/1/5/346208.
+
+### AI and digital health
+
+Stead, W. W. (2018) ‘Clinical Implications and Challenges of Artificial Intelligence and Deep Learning’, JAMA. American Medical Association, 320(11), p. 1107. doi: 10.1001/jama.2018.11029. Available at: https://jamanetwork.com/journals/jama/article-abstract/2701665.
+Topol, E. J. (2019) ‘High-performance medicine: the convergence of human and artificial intelligence’, Nature Medicine. Nature Publishing Group, 25(1), pp. 44–56. doi: 10.1038/s41591-018-0300-7. Available at: https://www.nature.com/articles/s41591-018-0300-7.
+
+Tomašev, N. et al. (2019) ‘A clinically applicable approach to continuous prediction of future acute kidney injury’, Nature. Nature Publishing Group, 572(7767), pp. 116–119. doi: 10.1038/s41586-019-1390-1. Availble at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722431/.
+
+
+De Fauw, J. et al. (2018) ‘Clinically applicable deep learning for diagnosis and referral in retinal disease’, Nature Medicine, 24(9), pp. 1342–1350. doi: 10.1038/s41591-018-0107-6. https://discovery.ucl.ac.uk/id/eprint/10056194/1/Diagnosis%20and%20referral%20in%20retinal%20disease%20-%20updated.pdf.  
+Zakhem, G. A., Motosko, C. C. and Ho, R. S. (2018) ‘How Should Artificial Intelligence Screen for Skin Cancer and Deliver Diagnostic Predictions to Patients?’, JAMA Dermatology. American Medical Association, 154(12), p. 1383. doi: 10.1001/jamadermatol.2018.2714. Available at: https://jamanetwork.com/journals/jamadermatology/article-abstract/2697219.
+
+
+Panch, T. et al. (2019) ‘Artificial intelligence: opportunities and risks for public health’, The Lancet Digital Health. Elsevier Ltd, 1(1), pp. e13–e14. doi: 10.1016/S2589-7500(19)30002-0. Available at: https://www.researchgate.net/publication/332965889_Artificial_intelligence_opportunities_and_risks_for_public_health.
+
 
 
